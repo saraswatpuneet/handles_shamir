@@ -1,2 +1,6 @@
 github.com/hashicorp/vault v1.12.3 h1:fY0SMi6LkvyR6bhKhRIe+IOZxGlCQXouVjpX3CMM0BA=
 github.com/hashicorp/vault v1.12.3/go.mod h1:PZ/HYlUFh+qfMHflLwc5aEojDoSGsV14IodOgFzMAR0=
+golang.org/x/crypto v0.0.0-20220817201139-bc19a97f63c8 h1:GIAS/yBem/gq2MUqgNIzUHW7cJMmx3TGZOrnyYaNQ6c=
+golang.org/x/crypto v0.0.0-20220817201139-bc19a97f63c8/go.mod h1:IxCIyHEi3zRg3s0A5j5BB6A9Jmi73HwBIUl50j+osU4=
+golang.org/x/sys v0.3.0 h1:w8ZOecv6NaNa/zC8944JTU3vz4u6Lagfk4RPQxv92NQ=
+golang.org/x/sys v0.3.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=

@@ -9,7 +9,7 @@ import (
 	"github.com/hashicorp/vault/shamir"
 )
 
-func main() {
+func main2() {
 	// User ID and suffix
 	userID := 12345
 	suffix := "handle"
